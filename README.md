@@ -8,7 +8,7 @@
 
 ### About
 
-  + I am Jo Hyeon-woo, currently a senior at Sungkyunkwan University.
+            + I am Jo Hyeon-woo, currently a senior at Sungkyunkwan University.
     <br/>I am majoring in computer science and engineering.
     <br/> I worked on an industry-academic cooperation project when I was in second grade.
   

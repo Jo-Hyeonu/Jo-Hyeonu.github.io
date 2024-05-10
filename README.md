@@ -1,4 +1,3 @@
-# Jo-Hyeonu.github.io
 
 ## Introduction
 

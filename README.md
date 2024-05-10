@@ -4,8 +4,6 @@
 <br>
 <img src = "조현우.JPG" width = 413px height = 531px title = "me" align = 'left'/>
 
-
-
 ### About
 
 + I am Jo Hyeon-woo, currently a senior at Sungkyunkwan University.

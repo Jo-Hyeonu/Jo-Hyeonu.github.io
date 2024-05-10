@@ -4,7 +4,7 @@
 <br>
 <img src = "조현우.JPG" width = 413px height = 531px title = "me" align = 'left'/>
 
-<p style="text-align:right">
+<div style="text-align:right">
 
 ### About
 
@@ -29,4 +29,4 @@
 ### Contact
 + email : rewolfnus0824@naver.com
 + github : Jo-Hyeonu/github.com
-</p>
+</div>

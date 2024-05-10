@@ -1,9 +1,13 @@
 # Jo-Hyeonu.github.io
 
 ## Introduction
+<div class = pull-left>
 <br>
 <img src = "조현우.JPG" width = 413px height = 531px title = "me"/>
 
+</div>
+
+<div class = pull-right>
 ### About
 + 
 
@@ -20,4 +24,4 @@
 ### Contact
 + email : rewolfnus0824@naver.com
 + github : Jo-Hyeonu/github.com
-
+</div>

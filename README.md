@@ -19,6 +19,7 @@
 ### Education
 + **SKKU** South Korea
 / B.S. Computer Science and Engineering 2020.03.~
+
 ### About
 
 ### Contact

@@ -4,12 +4,14 @@
 <br>
 <img src = "조현우.JPG" width = 413px height = 531px title = "me" align = 'left'/>
 
+<p style="text-align:right">
 
-<p class = "right">
 ### About
+
 + I am Jo Hyeon-woo, currently a senior at Sungkyunkwan University.
   <br/>I am majoring in computer science and engineering.
   <br/> I worked on an industry-academic cooperation project when I was in second grade.
+  
 
 ### Skills
 + c, c++

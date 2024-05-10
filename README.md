@@ -7,7 +7,9 @@
 
 
 ### About
-+ 
++ I am Jo Hyeon-woo, currently a senior at Sungkyunkwan University.
+  <br/>I am majoring in computer science and engineering.
+  <br/> I worked on an industry-academic cooperation project when I was in second grade.
 
 ### Skills
 + c, c++
@@ -16,9 +18,11 @@
 
 ### Education
 + **SKKU** South Korea
-/ B.S. Computer Science and Engineering 2020.03.~
+  <br/>
+  B.S. Computer Science and Engineering 2020.03.~
 
-### About
+### Certificate
++ 정보처리산업기사
 
 ### Contact
 + email : rewolfnus0824@naver.com
